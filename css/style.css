@@ -1,0 +1,50 @@
+body {
+  background-color: #222;
+  margin: 0;
+}
+
+main {
+  width: 70%;
+  display: table;
+  margin: 100px auto 0 auto;
+}
+
+head {
+  margin: 100px;
+  color: aliceblue;
+}
+
+.titulo {
+  background-color: black;
+  font-size: 50px;
+  color: red;
+  font: tolyer;
+  margin-top: 0%;
+}
+.imagem {
+  border-radius: 5px;
+  border: 5px solid rgb(247, 22, 22);
+  margin-top: 50%;
+  margin-left: 35%;
+}
+
+#btn {
+  text-align: center;
+  color: rgb(236, 27, 27);
+  background-color: white;
+  font-size: 16px;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  margin-left: 50%;
+}
+
+#btn:hover {
+  color: rgb(238, 234, 234);
+  background-color: rgb(10, 10, 10);
+}
+
+body {
+  background-color: black;
+  color: black;
+}
